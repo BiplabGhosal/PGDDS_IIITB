@@ -2,7 +2,7 @@
 #Library lubridate,corrplot,VIM and treemap are installed and then used for data processing
 # and visualization.
 
-#Install the packages if not available in the system.
+#Install the packages if not available in the system
 
 #install.packages("lubridate")
 #install.packages("corrplot")
