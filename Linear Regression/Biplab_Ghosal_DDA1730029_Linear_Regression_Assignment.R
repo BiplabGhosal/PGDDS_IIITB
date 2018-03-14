@@ -17,7 +17,7 @@ sum(is.na(car)) #No NA values present in the dataset
 nrow(car)
 unique(nrow(car)) #No duplicate records present
 
-#Checking structure of dataframe
+#Checking structure of dataframe.
 str(car)
 
 #Checking summary of car dataset
