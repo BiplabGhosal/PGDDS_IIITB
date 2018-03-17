@@ -1,6 +1,5 @@
-setwd("F:/Work and Study/IIIT-B PGDDS/Main Courses/K Means Classification")
-
 library(dplyr)
+library(ggplot2)
 
 Online.Retail <- read.csv("Online Retail.csv", stringsAsFactors = FALSE)
 sum(is.na(Online.Retail)) #135080
