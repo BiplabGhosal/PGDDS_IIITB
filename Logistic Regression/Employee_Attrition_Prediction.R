@@ -6,7 +6,7 @@
 #Model Building 
 #Model Evaluation
 ################################################################
-# Install and Load the required packages
+# Install and Load the required packages/
 #install.packages("tidyr")
 #install.packages("dplyr")
 #install.packages("ggplot2")
