@@ -1,4 +1,4 @@
-#Install packages if not installed already
+#Install packages if not installed already.
 #install.packages("stringr")
 #install.packages("tidyr")
 #install.packages("plyr")
